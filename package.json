@@ -1,7 +1,7 @@
 {
   "name": "@webergency/payment",
   "description": "Online Payment Service",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/payment.js",
